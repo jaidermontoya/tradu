@@ -1,2 +1,2 @@
-# tradu
+# lesco
 Created with CodeSandbox
